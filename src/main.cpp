@@ -243,9 +243,6 @@ int main(void)
 	{
 		for(;;); //loop
 	}
-	//GPIOE->BSRR |= (1 << 25 );
-	//RCC->CR		|= (1 << 24) | ( 1 << 16 ) | 0x01;
-
 	/* main task */
 	xTaskCreate( prvMainTask1, "Task1", configMINIMAL_STACK_SIZE, (void*)&xSemaphore, mainTASK_PRIORITY, NULL );
 	xTaskCreate( prvMainTask2, "Task2", configMINIMAL_STACK_SIZE, (void*)&xSemaphore, mainTASK_PRIORITY, NULL );

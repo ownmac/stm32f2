@@ -1,0 +1,1229 @@
+Archive member included because of file (symbol)
+
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (exit)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (__libc_init_array)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
+                              FreeRTOS/queue.o (memcpy)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (memset)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o) (atexit)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .data          0x00000000        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .text          0x00000000       0x74 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.extab     0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+ .text          0x00000000       0x14 startup/startup_stm32.o
+ .data          0x00000000        0x0 startup/startup_stm32.o
+ .bss           0x00000000        0x0 startup/startup_stm32.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 startup/system_stm32f30x.o
+ .text          0x00000000        0x0 startup/system_stm32f30x.o
+ .bss           0x00000000        0x0 startup/system_stm32f30x.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0xd4 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .text          0x00000000        0x0 src/main.o
+ .debug_macro   0x00000000       0x22 src/main.o
+ .debug_macro   0x00000000       0x7a src/main.o
+ .debug_macro   0x00000000       0x3b src/main.o
+ .debug_macro   0x00000000       0x1c src/main.o
+ .debug_macro   0x00000000      0x1f7 src/main.o
+ .debug_macro   0x00000000       0x2d src/main.o
+ .debug_macro   0x00000000       0x26 src/main.o
+ .debug_macro   0x00000000     0x76cc src/main.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/event_groups.o
+ .text          0x00000000        0x0 FreeRTOS/event_groups.o
+ .data          0x00000000        0x0 FreeRTOS/event_groups.o
+ .bss           0x00000000        0x0 FreeRTOS/event_groups.o
+ .text.xEventGroupCreate
+                0x00000000       0x30 FreeRTOS/event_groups.o
+ .text.xEventGroupSync
+                0x00000000       0xe0 FreeRTOS/event_groups.o
+ .text.xEventGroupWaitBits
+                0x00000000      0x104 FreeRTOS/event_groups.o
+ .text.xEventGroupClearBits
+                0x00000000       0x34 FreeRTOS/event_groups.o
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x28 FreeRTOS/event_groups.o
+ .text.xEventGroupSetBits
+                0x00000000       0xdc FreeRTOS/event_groups.o
+ .text.vEventGroupDelete
+                0x00000000       0x40 FreeRTOS/event_groups.o
+ .text.vEventGroupSetBitsCallback
+                0x00000000       0x18 FreeRTOS/event_groups.o
+ .text.vEventGroupClearBitsCallback
+                0x00000000       0x18 FreeRTOS/event_groups.o
+ .text.prvTestWaitCondition
+                0x00000000       0x44 FreeRTOS/event_groups.o
+ .text.uxEventGroupGetNumber
+                0x00000000       0x2c FreeRTOS/event_groups.o
+ .debug_info    0x00000000      0x662 FreeRTOS/event_groups.o
+ .debug_abbrev  0x00000000      0x13a FreeRTOS/event_groups.o
+ .debug_aranges
+                0x00000000       0x70 FreeRTOS/event_groups.o
+ .debug_ranges  0x00000000       0x60 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000      0x1b9 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000      0x886 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x58 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x22 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x35 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x9c FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000      0x10e FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x7f FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x4a FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x52 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x43 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000      0x180 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000      0x29d FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x29 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x1c FreeRTOS/event_groups.o
+ .debug_macro   0x00000000      0x1f7 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0xe1 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000      0x15d FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0xd2 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x10 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x1f FreeRTOS/event_groups.o
+ .debug_macro   0x00000000      0x3ed FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0xc0 FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x9a FreeRTOS/event_groups.o
+ .debug_macro   0x00000000       0x91 FreeRTOS/event_groups.o
+ .debug_line    0x00000000      0x54b FreeRTOS/event_groups.o
+ .debug_str     0x00000000     0x973f FreeRTOS/event_groups.o
+ .comment       0x00000000       0x71 FreeRTOS/event_groups.o
+ .debug_frame   0x00000000      0x1a4 FreeRTOS/event_groups.o
+ .ARM.attributes
+                0x00000000       0x33 FreeRTOS/event_groups.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/heap_5.o
+ .text          0x00000000        0x0 FreeRTOS/heap_5.o
+ .data          0x00000000        0x0 FreeRTOS/heap_5.o
+ .rodata        0x00000000        0x4 FreeRTOS/heap_5.o
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x18 FreeRTOS/heap_5.o
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000       0x18 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000      0x886 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x58 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x22 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x35 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x9c FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000      0x10e FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x7f FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x4a FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x52 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x43 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000      0x180 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000      0x29d FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x29 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x1c FreeRTOS/heap_5.o
+ .debug_macro   0x00000000      0x1f7 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0xe1 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000      0x15d FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0xd2 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x10 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x1f FreeRTOS/heap_5.o
+ .debug_macro   0x00000000      0x3ed FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0xc0 FreeRTOS/heap_5.o
+ .debug_macro   0x00000000       0x9a FreeRTOS/heap_5.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/list.o
+ .text          0x00000000        0x0 FreeRTOS/list.o
+ .data          0x00000000        0x0 FreeRTOS/list.o
+ .bss           0x00000000        0x0 FreeRTOS/list.o
+ .debug_macro   0x00000000      0x886 FreeRTOS/list.o
+ .debug_macro   0x00000000       0x58 FreeRTOS/list.o
+ .debug_macro   0x00000000       0x22 FreeRTOS/list.o
+ .debug_macro   0x00000000       0x35 FreeRTOS/list.o
+ .debug_macro   0x00000000       0x9c FreeRTOS/list.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/list.o
+ .debug_macro   0x00000000      0x10e FreeRTOS/list.o
+ .debug_macro   0x00000000       0x7f FreeRTOS/list.o
+ .debug_macro   0x00000000       0x4a FreeRTOS/list.o
+ .debug_macro   0x00000000       0x52 FreeRTOS/list.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/list.o
+ .debug_macro   0x00000000       0x43 FreeRTOS/list.o
+ .debug_macro   0x00000000      0x180 FreeRTOS/list.o
+ .debug_macro   0x00000000      0x29d FreeRTOS/list.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/list.o
+ .debug_macro   0x00000000       0x29 FreeRTOS/list.o
+ .debug_macro   0x00000000       0x1c FreeRTOS/list.o
+ .debug_macro   0x00000000      0x1f7 FreeRTOS/list.o
+ .debug_macro   0x00000000       0xe1 FreeRTOS/list.o
+ .debug_macro   0x00000000      0x15d FreeRTOS/list.o
+ .debug_macro   0x00000000       0xd2 FreeRTOS/list.o
+ .debug_macro   0x00000000       0x10 FreeRTOS/list.o
+ .debug_macro   0x00000000       0x1f FreeRTOS/list.o
+ .debug_macro   0x00000000      0x3ed FreeRTOS/list.o
+ .debug_macro   0x00000000       0xc0 FreeRTOS/list.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/port.o
+ .text          0x00000000        0x0 FreeRTOS/port.o
+ .bss           0x00000000        0x0 FreeRTOS/port.o
+ .text.vPortEndScheduler
+                0x00000000        0xc FreeRTOS/port.o
+ .debug_macro   0x00000000      0x886 FreeRTOS/port.o
+ .debug_macro   0x00000000       0x22 FreeRTOS/port.o
+ .debug_macro   0x00000000       0x44 FreeRTOS/port.o
+ .debug_macro   0x00000000       0x1c FreeRTOS/port.o
+ .debug_macro   0x00000000      0x1f7 FreeRTOS/port.o
+ .debug_macro   0x00000000       0xe1 FreeRTOS/port.o
+ .debug_macro   0x00000000      0x15d FreeRTOS/port.o
+ .debug_macro   0x00000000       0xd2 FreeRTOS/port.o
+ .debug_macro   0x00000000       0x10 FreeRTOS/port.o
+ .debug_macro   0x00000000       0x1f FreeRTOS/port.o
+ .debug_macro   0x00000000      0x3ed FreeRTOS/port.o
+ .debug_macro   0x00000000       0xc0 FreeRTOS/port.o
+ .debug_macro   0x00000000       0x9a FreeRTOS/port.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/queue.o
+ .text          0x00000000        0x0 FreeRTOS/queue.o
+ .data          0x00000000        0x0 FreeRTOS/queue.o
+ .bss           0x00000000        0x0 FreeRTOS/queue.o
+ .text.xQueueGenericReset
+                0x00000000       0xa4 FreeRTOS/queue.o
+ .text.xQueueGenericCreate
+                0x00000000       0x80 FreeRTOS/queue.o
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x4c FreeRTOS/queue.o
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x54 FreeRTOS/queue.o
+ .text.xQueueCreateCountingSemaphore
+                0x00000000       0x2c FreeRTOS/queue.o
+ .text.xQueueGenericSendFromISR
+                0x00000000       0x88 FreeRTOS/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000       0x80 FreeRTOS/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0x84 FreeRTOS/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0x4c FreeRTOS/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x20 FreeRTOS/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x2c FreeRTOS/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x1c FreeRTOS/queue.o
+ .text.vQueueDelete
+                0x00000000       0x18 FreeRTOS/queue.o
+ .text.uxQueueGetQueueNumber
+                0x00000000       0x18 FreeRTOS/queue.o
+ .text.vQueueSetQueueNumber
+                0x00000000       0x1c FreeRTOS/queue.o
+ .text.ucQueueGetQueueType
+                0x00000000       0x1c FreeRTOS/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x28 FreeRTOS/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x2c FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x886 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x58 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x22 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x35 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x9c FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x10e FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x7f FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x4a FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x52 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x43 FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x180 FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x29d FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x29 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x1c FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x1f7 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0xe1 FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x15d FreeRTOS/queue.o
+ .debug_macro   0x00000000       0xd2 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x10 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x1f FreeRTOS/queue.o
+ .debug_macro   0x00000000      0x3ed FreeRTOS/queue.o
+ .debug_macro   0x00000000       0xc0 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x9a FreeRTOS/queue.o
+ .debug_macro   0x00000000       0xb0 FreeRTOS/queue.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/tasks.o
+ .text          0x00000000        0x0 FreeRTOS/tasks.o
+ .data          0x00000000        0x0 FreeRTOS/tasks.o
+ .text.vTaskDelete
+                0x00000000       0xd4 FreeRTOS/tasks.o
+ .text.vTaskDelay
+                0x00000000       0x74 FreeRTOS/tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x34 FreeRTOS/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x38 FreeRTOS/tasks.o
+ .text.vTaskPrioritySet
+                0x00000000      0x134 FreeRTOS/tasks.o
+ .text.vTaskSuspend
+                0x00000000       0xe0 FreeRTOS/tasks.o
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x5c FreeRTOS/tasks.o
+ .text.vTaskResume
+                0x00000000       0x90 FreeRTOS/tasks.o
+ .text.xTaskResumeFromISR
+                0x00000000       0xac FreeRTOS/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x18 FreeRTOS/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x24 FreeRTOS/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x18 FreeRTOS/tasks.o
+ .text.uxTaskGetSystemState
+                0x00000000       0xf8 FreeRTOS/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x90 FreeRTOS/tasks.o
+ .text.xTaskRemoveFromUnorderedEventList
+                0x00000000       0x94 FreeRTOS/tasks.o
+ .text.uxTaskGetTaskNumber
+                0x00000000       0x2c FreeRTOS/tasks.o
+ .text.vTaskSetTaskNumber
+                0x00000000       0x24 FreeRTOS/tasks.o
+ .text.prvListTaskWithinSingleList
+                0x00000000      0x118 FreeRTOS/tasks.o
+ .text.prvTaskCheckFreeStackSpace
+                0x00000000       0x38 FreeRTOS/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000       0x20 FreeRTOS/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x30 FreeRTOS/tasks.o
+ .text.ulTaskNotifyTake
+                0x00000000       0xd8 FreeRTOS/tasks.o
+ .text.xTaskNotifyWait
+                0x00000000       0xfc FreeRTOS/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000      0x100 FreeRTOS/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x128 FreeRTOS/tasks.o
+ .text.vTaskNotifyGiveFromISR
+                0x00000000       0xc0 FreeRTOS/tasks.o
+ .text.xTaskNotifyStateClear
+                0x00000000       0x50 FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x886 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x58 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x22 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x35 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x9c FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x10e FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x7f FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x4a FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x52 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x43 FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x180 FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x29d FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x29 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x35 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x1c FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x1f7 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0xe1 FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x15d FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0xd2 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x10 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x1f FreeRTOS/tasks.o
+ .debug_macro   0x00000000      0x3ed FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0xc0 FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x9a FreeRTOS/tasks.o
+ .debug_macro   0x00000000       0x91 FreeRTOS/tasks.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .group         0x00000000        0x8 FreeRTOS/timers.o
+ .text          0x00000000        0x0 FreeRTOS/timers.o
+ .data          0x00000000        0x0 FreeRTOS/timers.o
+ .bss           0x00000000        0x0 FreeRTOS/timers.o
+ .debug_info    0x00000000       0x76 FreeRTOS/timers.o
+ .debug_abbrev  0x00000000       0x29 FreeRTOS/timers.o
+ .debug_aranges
+                0x00000000       0x18 FreeRTOS/timers.o
+ .debug_macro   0x00000000      0x195 FreeRTOS/timers.o
+ .debug_macro   0x00000000      0x886 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x58 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x22 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x35 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x9c FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/timers.o
+ .debug_macro   0x00000000      0x10e FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x7f FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x4a FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x52 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x43 FreeRTOS/timers.o
+ .debug_macro   0x00000000      0x180 FreeRTOS/timers.o
+ .debug_macro   0x00000000      0x29d FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x16 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x29 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x1c FreeRTOS/timers.o
+ .debug_macro   0x00000000      0x1f7 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0xe1 FreeRTOS/timers.o
+ .debug_macro   0x00000000      0x15d FreeRTOS/timers.o
+ .debug_macro   0x00000000       0xd2 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x10 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x1f FreeRTOS/timers.o
+ .debug_macro   0x00000000      0x3ed FreeRTOS/timers.o
+ .debug_macro   0x00000000       0xc0 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x9a FreeRTOS/timers.o
+ .debug_macro   0x00000000       0xb0 FreeRTOS/timers.o
+ .debug_macro   0x00000000       0x91 FreeRTOS/timers.o
+ .debug_line    0x00000000      0x3ee FreeRTOS/timers.o
+ .debug_str     0x00000000     0x9cb7 FreeRTOS/timers.o
+ .comment       0x00000000       0x71 FreeRTOS/timers.o
+ .ARM.attributes
+                0x00000000       0x33 FreeRTOS/timers.o
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xd4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .eh_frame      0x00000000        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .jcr           0x00000000        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x0000a000         xrw
+ROM              0x08000000         0x00040000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
+LOAD startup/startup_stm32.o
+LOAD startup/system_stm32f30x.o
+LOAD src/main.o
+LOAD FreeRTOS/event_groups.o
+LOAD FreeRTOS/heap_5.o
+LOAD FreeRTOS/list.o
+LOAD FreeRTOS/port.o
+LOAD FreeRTOS/queue.o
+LOAD FreeRTOS/tasks.o
+LOAD FreeRTOS/timers.o
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libm.a
+START GROUP
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m\libgcc.a
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a
+END GROUP
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtend.o
+LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+                0x2000a000                _estack = 0x2000a000
+                0x00000300                _Min_Heap_Size = 0x300
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 startup/startup_stm32.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188     0x21ec
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188       0x5c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .text          0x080001e4      0x134 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
+                0x080001e4                memcpy
+ *(.text*)
+ .text.Reset_Handler
+                0x08000318       0x48 startup/startup_stm32.o
+                0x08000318                Reset_Handler
+ .text.Default_Handler
+                0x08000360        0x2 startup/startup_stm32.o
+                0x08000360                DebugMon_Handler
+                0x08000360                HardFault_Handler
+                0x08000360                SysTick_Handler
+                0x08000360                PendSV_Handler
+                0x08000360                NMI_Handler
+                0x08000360                UsageFault_Handler
+                0x08000360                Default_Handler
+                0x08000360                MemManage_Handler
+                0x08000360                SVC_Handler
+                0x08000360                BusFault_Handler
+ *fill*         0x08000362        0x2 
+ .text.SystemInit
+                0x08000364       0x74 startup/system_stm32f30x.o
+                0x08000364                SystemInit
+ .text.SetSysClock
+                0x080003d8       0xe0 startup/system_stm32f30x.o
+ .text.NVIC_SetPriority
+                0x080004b8       0x5c src/main.o
+ .text.SysTick_Config
+                0x08000514       0x50 src/main.o
+ .text._ZL12prvMainTask1Pv
+                0x08000564       0xa4 src/main.o
+ .text._ZL12prvMainTask2Pv
+                0x08000608       0xa4 src/main.o
+ .text._ZL12prvMainTask3Pv
+                0x080006ac       0xa4 src/main.o
+ .text._ZL12prvMainTask4Pv
+                0x08000750       0xa4 src/main.o
+ .text.main     0x080007f4      0x15c src/main.o
+                0x080007f4                main
+ .text.pvPortMalloc
+                0x08000950      0x11c FreeRTOS/heap_5.o
+                0x08000950                pvPortMalloc
+ .text.vPortFree
+                0x08000a6c       0x70 FreeRTOS/heap_5.o
+                0x08000a6c                vPortFree
+ .text.prvInsertBlockIntoFreeList
+                0x08000adc       0xb0 FreeRTOS/heap_5.o
+ .text.vPortDefineHeapRegions
+                0x08000b8c      0x114 FreeRTOS/heap_5.o
+                0x08000b8c                vPortDefineHeapRegions
+ .text.vListInitialise
+                0x08000ca0       0x40 FreeRTOS/list.o
+                0x08000ca0                vListInitialise
+ .text.vListInitialiseItem
+                0x08000ce0       0x18 FreeRTOS/list.o
+                0x08000ce0                vListInitialiseItem
+ .text.vListInsertEnd
+                0x08000cf8       0x48 FreeRTOS/list.o
+                0x08000cf8                vListInsertEnd
+ .text.vListInsert
+                0x08000d40       0x70 FreeRTOS/list.o
+                0x08000d40                vListInsert
+ .text.uxListRemove
+                0x08000db0       0x54 FreeRTOS/list.o
+                0x08000db0                uxListRemove
+ .text.pxPortInitialiseStack
+                0x08000e04       0x58 FreeRTOS/port.o
+                0x08000e04                pxPortInitialiseStack
+ .text.prvTaskExitError
+                0x08000e5c        0xc FreeRTOS/port.o
+ .text.vPortSVCHandler
+                0x08000e68       0x24 FreeRTOS/port.o
+                0x08000e68                vPortSVCHandler
+ .text.prvPortStartFirstTask
+                0x08000e8c       0x20 FreeRTOS/port.o
+ .text.xPortStartScheduler
+                0x08000eac       0x3c FreeRTOS/port.o
+                0x08000eac                xPortStartScheduler
+ .text.vPortYield
+                0x08000ee8       0x20 FreeRTOS/port.o
+                0x08000ee8                vPortYield
+ .text.vPortEnterCritical
+                0x08000f08       0x20 FreeRTOS/port.o
+                0x08000f08                vPortEnterCritical
+ .text.vPortExitCritical
+                0x08000f28       0x24 FreeRTOS/port.o
+                0x08000f28                vPortExitCritical
+ .text.ulPortSetInterruptMask
+                0x08000f4c       0x14 FreeRTOS/port.o
+                0x08000f4c                ulPortSetInterruptMask
+ .text.vPortClearInterruptMask
+                0x08000f60        0x8 FreeRTOS/port.o
+                0x08000f60                vPortClearInterruptMask
+ .text.xPortPendSVHandler
+                0x08000f68       0x44 FreeRTOS/port.o
+                0x08000f68                xPortPendSVHandler
+ .text.xPortSysTickHandler
+                0x08000fac       0x28 FreeRTOS/port.o
+                0x08000fac                xPortSysTickHandler
+ .text.vPortSetupTimerInterrupt
+                0x08000fd4       0x24 FreeRTOS/port.o
+                0x08000fd4                vPortSetupTimerInterrupt
+ .text.xQueueCreateMutex
+                0x08000ff8       0x84 FreeRTOS/queue.o
+                0x08000ff8                xQueueCreateMutex
+ .text.xQueueGenericSend
+                0x0800107c      0x124 FreeRTOS/queue.o
+                0x0800107c                xQueueGenericSend
+ .text.xQueueGenericReceive
+                0x080011a0      0x170 FreeRTOS/queue.o
+                0x080011a0                xQueueGenericReceive
+ .text.prvCopyDataToQueue
+                0x08001310       0xdc FreeRTOS/queue.o
+ .text.prvCopyDataFromQueue
+                0x080013ec       0x4c FreeRTOS/queue.o
+ .text.prvUnlockQueue
+                0x08001438       0x98 FreeRTOS/queue.o
+ .text.prvIsQueueEmpty
+                0x080014d0       0x2c FreeRTOS/queue.o
+ .text.prvIsQueueFull
+                0x080014fc       0x30 FreeRTOS/queue.o
+ .text.xTaskGenericCreate
+                0x0800152c      0x140 FreeRTOS/tasks.o
+                0x0800152c                xTaskGenericCreate
+ .text.vTaskDelayUntil
+                0x0800166c       0xb8 FreeRTOS/tasks.o
+                0x0800166c                vTaskDelayUntil
+ .text.vTaskStartScheduler
+                0x08001724       0x60 FreeRTOS/tasks.o
+                0x08001724                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x08001784       0x1c FreeRTOS/tasks.o
+                0x08001784                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x080017a0      0x100 FreeRTOS/tasks.o
+                0x080017a0                xTaskResumeAll
+ .text.xTaskGetTickCount
+                0x080018a0       0x20 FreeRTOS/tasks.o
+                0x080018a0                xTaskGetTickCount
+ .text.xTaskIncrementTick
+                0x080018c0      0x160 FreeRTOS/tasks.o
+                0x080018c0                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x08001a20       0x8c FreeRTOS/tasks.o
+                0x08001a20                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x08001aac       0x80 FreeRTOS/tasks.o
+                0x08001aac                vTaskPlaceOnEventList
+ .text.xTaskRemoveFromEventList
+                0x08001b2c       0xac FreeRTOS/tasks.o
+                0x08001b2c                xTaskRemoveFromEventList
+ .text.vTaskSetTimeOutState
+                0x08001bd8       0x2c FreeRTOS/tasks.o
+                0x08001bd8                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x08001c04       0x88 FreeRTOS/tasks.o
+                0x08001c04                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x08001c8c       0x18 FreeRTOS/tasks.o
+                0x08001c8c                vTaskMissedYield
+ .text.prvIdleTask
+                0x08001ca4       0x20 FreeRTOS/tasks.o
+ .text.prvInitialiseTCBVariables
+                0x08001cc4       0xa4 FreeRTOS/tasks.o
+ .text.prvInitialiseTaskLists
+                0x08001d68       0x7c FreeRTOS/tasks.o
+ .text.prvCheckTasksWaitingTermination
+                0x08001de4       0x74 FreeRTOS/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x08001e58       0x6c FreeRTOS/tasks.o
+ .text.prvAllocateTCBAndStack
+                0x08001ec4       0x70 FreeRTOS/tasks.o
+ .text.prvDeleteTCB
+                0x08001f34       0x20 FreeRTOS/tasks.o
+ .text.prvResetNextTaskUnblockTime
+                0x08001f54       0x48 FreeRTOS/tasks.o
+ .text.vTaskPriorityInherit
+                0x08001f9c       0xf0 FreeRTOS/tasks.o
+                0x08001f9c                vTaskPriorityInherit
+ .text.xTaskPriorityDisinherit
+                0x0800208c       0xcc FreeRTOS/tasks.o
+                0x0800208c                xTaskPriorityDisinherit
+ .text.pvTaskIncrementMutexHeldCount
+                0x08002158       0x28 FreeRTOS/tasks.o
+                0x08002158                pvTaskIncrementMutexHeldCount
+ .text.__libc_init_array
+                0x08002180       0x50 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+                0x08002180                __libc_init_array
+ .text.memset   0x080021d0       0x9c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+                0x080021d0                memset
+ .text.startup.register_fini
+                0x0800226c       0x14 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08002280        0xc d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                0x08002280                atexit
+ .text.__libc_fini_array
+                0x0800228c       0x2c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+                0x0800228c                __libc_fini_array
+ .text.__register_exitproc
+                0x080022b8       0xa4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+                0x080022b8                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0800235c        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ *(.init)
+ .init          0x0800235c        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x0800235c                _init
+ .init          0x08002360        0x8 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ *(.fini)
+ .fini          0x08002368        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x08002368                _fini
+ .fini          0x0800236c        0x8 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+                0x08002374                . = ALIGN (0x4)
+                0x08002374                _etext = .
+
+.vfp11_veneer   0x08002374        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08002374        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08002374        0x0
+ .iplt          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.rodata         0x08002374       0x30
+                0x08002374                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08002374       0x20 src/main.o
+ .rodata        0x08002394        0x8 FreeRTOS/tasks.o
+ *(.rodata*)
+ .rodata.str1.4
+                0x0800239c        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x080023a0        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x080023a0                _global_impure_ptr
+                0x080023a4                . = ALIGN (0x4)
+
+.rel.dyn        0x080023a4        0x0
+ .rel.iplt      0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.ARM.extab      0x080023a4        0x0
+                0x080023a4                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x080023a4                . = ALIGN (0x4)
+
+.ARM            0x080023a4        0x0
+                0x080023a4                . = ALIGN (0x4)
+                0x080023a4                __exidx_start = .
+ *(.ARM.exidx*)
+                0x080023a4                __exidx_end = .
+                0x080023a4                . = ALIGN (0x4)
+
+.preinit_array  0x080023a4        0x0
+                0x080023a4                . = ALIGN (0x4)
+                0x080023a4                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x080023a4                PROVIDE (__preinit_array_end, .)
+                0x080023a4                . = ALIGN (0x4)
+
+.init_array     0x080023a4        0x8
+                0x080023a4                . = ALIGN (0x4)
+                0x080023a4                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x080023a4        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x080023a8        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x080023ac                PROVIDE (__init_array_end, .)
+                0x080023ac                . = ALIGN (0x4)
+
+.fini_array     0x080023ac        0x4
+                0x080023ac                . = ALIGN (0x4)
+                0x080023ac                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x080023ac        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x080023b0                PROVIDE (__fini_array_end, .)
+                0x080023b0                . = ALIGN (0x4)
+                0x080023b0                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x450 load address 0x080023b0
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000       0x14 startup/system_stm32f30x.o
+                0x20000000                SystemCoreClock
+                0x20000004                AHBPrescTable
+ .data          0x20000014       0x10 src/main.o
+                0x20000014                xHeapRegions
+ .data          0x20000024        0x4 FreeRTOS/port.o
+ *(.data*)
+ .data.impure_data
+                0x20000028      0x428 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x20000450                . = ALIGN (0x4)
+                0x20000450                _edata = .
+
+.jcr            0x20000450        0x0 load address 0x08002800
+ .jcr           0x20000450        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+
+.igot.plt       0x20000450        0x0 load address 0x08002800
+ .igot.plt      0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x20000450                . = ALIGN (0x4)
+
+.bss            0x20000450      0x138 load address 0x08002800
+                0x20000450                _sbss = .
+                0x20000450                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000450       0x1c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .bss           0x2000046c        0x4 src/main.o
+                0x2000046c                xSemaphore
+ .bss           0x20000470       0x18 FreeRTOS/heap_5.o
+ .bss           0x20000488      0x100 FreeRTOS/tasks.o
+                0x20000488                pxCurrentTCB
+ *(.bss*)
+ *(COMMON)
+                0x20000588                . = ALIGN (0x4)
+                0x20000588                _ebss = .
+                0x20000588                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000588      0x700 load address 0x08002800
+                0x20000588                . = ALIGN (0x8)
+                0x20000588                PROVIDE (end, .)
+                0x20000588                PROVIDE (_end, .)
+                0x20000888                . = (. + _Min_Heap_Size)
+ *fill*         0x20000588      0x300 
+                0x20000c88                . = (. + _Min_Stack_Size)
+ *fill*         0x20000888      0x400 
+                0x20000c88                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x21 startup/startup_stm32.o
+ .ARM.attributes
+                0x0000006d       0x33 startup/system_stm32f30x.o
+ .ARM.attributes
+                0x000000a0       0x33 src/main.o
+ .ARM.attributes
+                0x000000d3       0x33 FreeRTOS/heap_5.o
+ .ARM.attributes
+                0x00000106       0x33 FreeRTOS/list.o
+ .ARM.attributes
+                0x00000139       0x33 FreeRTOS/port.o
+ .ARM.attributes
+                0x0000016c       0x33 FreeRTOS/queue.o
+ .ARM.attributes
+                0x0000019f       0x33 FreeRTOS/tasks.o
+ .ARM.attributes
+                0x000001d2       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000200       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000022e       0x1c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000024a       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000278       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000002a6       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000002d4       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000302       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000330       0x1e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+OUTPUT(demo1.elf elf32-littlearm)
+
+.debug_line     0x00000000     0x2a77
+ .debug_line    0x00000000       0x79 startup/startup_stm32.o
+ .debug_line    0x00000079      0x399 startup/system_stm32f30x.o
+ .debug_line    0x00000412      0x567 src/main.o
+ .debug_line    0x00000979      0x4c5 FreeRTOS/heap_5.o
+ .debug_line    0x00000e3e      0x451 FreeRTOS/list.o
+ .debug_line    0x0000128f      0x46c FreeRTOS/port.o
+ .debug_line    0x000016fb      0x76c FreeRTOS/queue.o
+ .debug_line    0x00001e67      0xc10 FreeRTOS/tasks.o
+
+.debug_info     0x00000000     0x36e9
+ .debug_info    0x00000000       0x5f startup/startup_stm32.o
+ .debug_info    0x0000005f      0x311 startup/system_stm32f30x.o
+ .debug_info    0x00000370      0xad4 src/main.o
+ .debug_info    0x00000e44      0x34a FreeRTOS/heap_5.o
+ .debug_info    0x0000118e      0x2a1 FreeRTOS/list.o
+ .debug_info    0x0000142f      0x23c FreeRTOS/port.o
+ .debug_info    0x0000166b      0xb14 FreeRTOS/queue.o
+ .debug_info    0x0000217f     0x156a FreeRTOS/tasks.o
+
+.debug_abbrev   0x00000000      0xab7
+ .debug_abbrev  0x00000000       0x12 startup/startup_stm32.o
+ .debug_abbrev  0x00000012      0x14a startup/system_stm32f30x.o
+ .debug_abbrev  0x0000015c      0x1f7 src/main.o
+ .debug_abbrev  0x00000353      0x14b FreeRTOS/heap_5.o
+ .debug_abbrev  0x0000049e       0xc1 FreeRTOS/list.o
+ .debug_abbrev  0x0000055f      0x165 FreeRTOS/port.o
+ .debug_abbrev  0x000006c4      0x17a FreeRTOS/queue.o
+ .debug_abbrev  0x0000083e      0x279 FreeRTOS/tasks.o
+
+.debug_aranges  0x00000000      0x450
+ .debug_aranges
+                0x00000000       0x28 startup/startup_stm32.o
+ .debug_aranges
+                0x00000028       0x30 startup/system_stm32f30x.o
+ .debug_aranges
+                0x00000058       0x50 src/main.o
+ .debug_aranges
+                0x000000a8       0x48 FreeRTOS/heap_5.o
+ .debug_aranges
+                0x000000f0       0x40 FreeRTOS/list.o
+ .debug_aranges
+                0x00000130       0x88 FreeRTOS/port.o
+ .debug_aranges
+                0x000001b8       0xe8 FreeRTOS/queue.o
+ .debug_aranges
+                0x000002a0      0x1b0 FreeRTOS/tasks.o
+
+.debug_ranges   0x00000000      0x3d8
+ .debug_ranges  0x00000000       0x20 startup/startup_stm32.o
+ .debug_ranges  0x00000020       0x20 startup/system_stm32f30x.o
+ .debug_ranges  0x00000040       0x40 src/main.o
+ .debug_ranges  0x00000080       0x38 FreeRTOS/heap_5.o
+ .debug_ranges  0x000000b8       0x30 FreeRTOS/list.o
+ .debug_ranges  0x000000e8       0x78 FreeRTOS/port.o
+ .debug_ranges  0x00000160       0xd8 FreeRTOS/queue.o
+ .debug_ranges  0x00000238      0x1a0 FreeRTOS/tasks.o
+
+.debug_macro    0x00000000     0xc4a0
+ .debug_macro   0x00000000       0x99 startup/system_stm32f30x.o
+ .debug_macro   0x00000099      0x886 startup/system_stm32f30x.o
+ .debug_macro   0x0000091f       0x7a startup/system_stm32f30x.o
+ .debug_macro   0x00000999       0x3b startup/system_stm32f30x.o
+ .debug_macro   0x000009d4       0x22 startup/system_stm32f30x.o
+ .debug_macro   0x000009f6       0x44 startup/system_stm32f30x.o
+ .debug_macro   0x00000a3a       0x1c startup/system_stm32f30x.o
+ .debug_macro   0x00000a56      0x1f7 startup/system_stm32f30x.o
+ .debug_macro   0x00000c4d       0x2d startup/system_stm32f30x.o
+ .debug_macro   0x00000c7a       0x26 startup/system_stm32f30x.o
+ .debug_macro   0x00000ca0      0xd39 startup/system_stm32f30x.o
+ .debug_macro   0x000019d9     0x76cc startup/system_stm32f30x.o
+ .debug_macro   0x000090a5      0x224 src/main.o
+ .debug_macro   0x000092c9      0x8aa src/main.o
+ .debug_macro   0x00009b73       0x58 src/main.o
+ .debug_macro   0x00009bcb       0x35 src/main.o
+ .debug_macro   0x00009c00       0x9c src/main.o
+ .debug_macro   0x00009c9c       0x16 src/main.o
+ .debug_macro   0x00009cb2      0x10e src/main.o
+ .debug_macro   0x00009dc0       0x7f src/main.o
+ .debug_macro   0x00009e3f       0x4a src/main.o
+ .debug_macro   0x00009e89       0x52 src/main.o
+ .debug_macro   0x00009edb       0x16 src/main.o
+ .debug_macro   0x00009ef1       0x43 src/main.o
+ .debug_macro   0x00009f34      0x180 src/main.o
+ .debug_macro   0x0000a0b4      0x2b2 src/main.o
+ .debug_macro   0x0000a366       0x16 src/main.o
+ .debug_macro   0x0000a37c       0x29 src/main.o
+ .debug_macro   0x0000a3a5       0x16 src/main.o
+ .debug_macro   0x0000a3bb       0x35 src/main.o
+ .debug_macro   0x0000a3f0      0xd39 src/main.o
+ .debug_macro   0x0000b129       0xe1 src/main.o
+ .debug_macro   0x0000b20a      0x15d src/main.o
+ .debug_macro   0x0000b367       0xd2 src/main.o
+ .debug_macro   0x0000b439       0x10 src/main.o
+ .debug_macro   0x0000b449       0x1f src/main.o
+ .debug_macro   0x0000b468      0x3ed src/main.o
+ .debug_macro   0x0000b855       0xc0 src/main.o
+ .debug_macro   0x0000b915       0x9a src/main.o
+ .debug_macro   0x0000b9af       0xb0 src/main.o
+ .debug_macro   0x0000ba5f       0x7f src/main.o
+ .debug_macro   0x0000bade      0x186 FreeRTOS/heap_5.o
+ .debug_macro   0x0000bc64      0x15e FreeRTOS/list.o
+ .debug_macro   0x0000bdc2      0x157 FreeRTOS/port.o
+ .debug_macro   0x0000bf19      0x166 FreeRTOS/port.o
+ .debug_macro   0x0000c07f      0x1d0 FreeRTOS/queue.o
+ .debug_macro   0x0000c24f       0x35 FreeRTOS/queue.o
+ .debug_macro   0x0000c284      0x20c FreeRTOS/tasks.o
+ .debug_macro   0x0000c490       0x10 FreeRTOS/tasks.o
+
+.debug_str      0x00000000    0x3c021
+ .debug_str     0x00000000    0x31de9 startup/system_stm32f30x.o
+                              0x31f61 (size before relaxing)
+ .debug_str     0x00031de9     0x7723 src/main.o
+                              0x39574 (size before relaxing)
+ .debug_str     0x0003950c      0x37c FreeRTOS/heap_5.o
+                               0x8daf (size before relaxing)
+ .debug_str     0x00039888      0x11e FreeRTOS/list.o
+                               0x849d (size before relaxing)
+ .debug_str     0x000399a6      0x647 FreeRTOS/port.o
+                               0x6e96 (size before relaxing)
+ .debug_str     0x00039fed      0x65f FreeRTOS/queue.o
+                               0x9cae (size before relaxing)
+ .debug_str     0x0003a64c     0x19d5 FreeRTOS/tasks.o
+                               0xa6e6 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 startup/system_stm32f30x.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 src/main.o
+ .comment       0x00000000       0x71 FreeRTOS/heap_5.o
+ .comment       0x00000000       0x71 FreeRTOS/list.o
+ .comment       0x00000000       0x71 FreeRTOS/port.o
+ .comment       0x00000000       0x71 FreeRTOS/queue.o
+ .comment       0x00000000       0x71 FreeRTOS/tasks.o
+
+.debug_frame    0x00000000     0x1110
+ .debug_frame   0x00000000       0x7c startup/system_stm32f30x.o
+ .debug_frame   0x0000007c       0xfc src/main.o
+ .debug_frame   0x00000178       0xe8 FreeRTOS/heap_5.o
+ .debug_frame   0x00000260       0xd8 FreeRTOS/list.o
+ .debug_frame   0x00000338      0x174 FreeRTOS/port.o
+ .debug_frame   0x000004ac      0x3d8 FreeRTOS/queue.o
+ .debug_frame   0x00000884      0x754 FreeRTOS/tasks.o
+ .debug_frame   0x00000fd8       0x2c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00001004       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00001038       0x50 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00001088       0x20 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x000010a8       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x000010dc       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)

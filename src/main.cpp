@@ -27,7 +27,7 @@ SemaphoreHandle_t xSemaphore = NULL;
 // this way we can avoid corruption of this var
 HeapRegion_t xHeapRegions[] =
 {
-		{ ( uint8_t * ) 0x20000000UL, 0x9000 },
+		{ ( uint8_t * ) 0x20000000UL, 0x9000 /* ignore this 0x9000 it will be updated in main when we know the stack pos */},
 		{ NULL, 0 }
 };
 

@@ -249,9 +249,6 @@ int main(void)
 	xTaskCreate( prvMainTask3, "Task3", configMINIMAL_STACK_SIZE, (void*)&xSemaphore, mainTASK_PRIORITY, NULL );
 	xTaskCreate( prvMainTask4, "Task4", configMINIMAL_STACK_SIZE, (void*)&xSemaphore, mainTASK_PRIORITY, NULL );
 
-	/* Create the 'check' task, which is also defined within this file. */
-//	xTaskCreate( prvNOPTask, "NOP", configMINIMAL_STACK_SIZE, NULL, mainNopIdle_PRIORITY, NULL );
-
     /* Start the scheduler. */
 	vTaskStartScheduler();
 

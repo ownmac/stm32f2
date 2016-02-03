@@ -15,7 +15,7 @@ src/main.o: ../src/main.cpp C:/Users/Dove/STM32/demo1/inc/stm32f30x.h \
  C:/Users/Dove/STM32/demo1/FreeRTOS/include/list.h \
  C:/Users/Dove/STM32/demo1/FreeRTOS/include/queue.h \
  C:/Users/Dove/STM32/demo1/FreeRTOS/include/semphr.h \
- C:/Users/Dove/STM32/demo1/FreeRTOS/include/queue.h
+ C:/Users/Dove/STM32/demo1/FreeRTOS/include/queue.h ../src/CApplication.h
 
 C:/Users/Dove/STM32/demo1/inc/stm32f30x.h:
 
@@ -52,3 +52,5 @@ C:/Users/Dove/STM32/demo1/FreeRTOS/include/queue.h:
 C:/Users/Dove/STM32/demo1/FreeRTOS/include/semphr.h:
 
 C:/Users/Dove/STM32/demo1/FreeRTOS/include/queue.h:
+
+../src/CApplication.h:

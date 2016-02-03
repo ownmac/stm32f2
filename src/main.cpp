@@ -18,6 +18,8 @@
 #include <queue.h>
 #include <semphr.h>
 
+#include "CApplication.h"
+
 extern "C" char _end;
 SemaphoreHandle_t xSemaphore = NULL;
 

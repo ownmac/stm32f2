@@ -7,13 +7,16 @@ S_SRCS += \
 ../startup/startup_stm32.s 
 
 C_SRCS += \
+../startup/sysmem.c \
 ../startup/system_stm32f30x.c 
 
 OBJS += \
 ./startup/startup_stm32.o \
+./startup/sysmem.o \
 ./startup/system_stm32f30x.o 
 
 C_DEPS += \
+./startup/sysmem.d \
 ./startup/system_stm32f30x.d 
 
 

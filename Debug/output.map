@@ -1,23 +1,44 @@
 Archive member included because of file (symbol)
 
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a(del_op.o)
+                              src/CApplication.o (operator delete(void*))
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+                              startup/sysmem.o (__errno)
 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
                               d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (exit)
 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
                               d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
                               d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (__libc_init_array)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-malloc.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a(del_op.o) (free)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-malloc.o) (_malloc_r)
 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
                               FreeRTOS/queue.o (memcpy)
 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
                               d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o (memset)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mlock.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o) (__malloc_lock)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-sbrkr.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o) (_sbrk_r)
 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
                               d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o) (__call_exitprocs)
 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
                               d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o) (atexit)
 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
                               d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-freer.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-malloc.o) (_free_r)
+d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-reent.o)
+                              d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-sbrkr.o) (errno)
 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
                               d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-reent.o)
 
 Discarded input sections
 
@@ -35,6 +56,30 @@ Discarded input sections
  .text          0x00000000       0x14 startup/startup_stm32.o
  .data          0x00000000        0x0 startup/startup_stm32.o
  .bss           0x00000000        0x0 startup/startup_stm32.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .group         0x00000000        0x8 startup/sysmem.o
+ .text          0x00000000        0x0 startup/sysmem.o
+ .data          0x00000000        0x0 startup/sysmem.o
  .group         0x00000000        0x8 startup/system_stm32f30x.o
  .group         0x00000000        0x8 startup/system_stm32f30x.o
  .group         0x00000000        0x8 startup/system_stm32f30x.o
@@ -50,6 +95,32 @@ Discarded input sections
  .bss           0x00000000        0x0 startup/system_stm32f30x.o
  .text.SystemCoreClockUpdate
                 0x00000000       0xd4 startup/system_stm32f30x.o
+ .debug_macro   0x00000000      0x886 startup/system_stm32f30x.o
+ .debug_macro   0x00000000       0x22 startup/system_stm32f30x.o
+ .group         0x00000000        0x8 src/CApplication.o
+ .text          0x00000000        0x0 src/CApplication.o
+ .data          0x00000000        0x0 src/CApplication.o
+ .bss           0x00000000        0x0 src/CApplication.o
+ .text._ZN12CApplicationC2Ev
+                0x00000000       0x24 src/CApplication.o
+ .text._ZN12CApplicationD2Ev
+                0x00000000       0x2c src/CApplication.o
+ .text._ZN12CApplicationD0Ev
+                0x00000000       0x20 src/CApplication.o
+ .rodata        0x00000000       0x10 src/CApplication.o
+ .debug_info    0x00000000      0x17d src/CApplication.o
+ .debug_abbrev  0x00000000      0x131 src/CApplication.o
+ .debug_aranges
+                0x00000000       0x30 src/CApplication.o
+ .debug_ranges  0x00000000       0x20 src/CApplication.o
+ .debug_macro   0x00000000       0x1b src/CApplication.o
+ .debug_macro   0x00000000      0x928 src/CApplication.o
+ .debug_line    0x00000000       0x87 src/CApplication.o
+ .debug_str     0x00000000     0x280f src/CApplication.o
+ .comment       0x00000000       0x71 src/CApplication.o
+ .debug_frame   0x00000000       0x80 src/CApplication.o
+ .ARM.attributes
+                0x00000000       0x33 src/CApplication.o
  .group         0x00000000        0x8 src/main.o
  .group         0x00000000        0x8 src/main.o
  .group         0x00000000        0x8 src/main.o
@@ -87,7 +158,14 @@ Discarded input sections
  .group         0x00000000        0x8 src/main.o
  .group         0x00000000        0x8 src/main.o
  .text          0x00000000        0x0 src/main.o
+ .debug_macro   0x00000000      0x928 src/main.o
+ .debug_macro   0x00000000       0x58 src/main.o
  .debug_macro   0x00000000       0x22 src/main.o
+ .debug_macro   0x00000000       0x35 src/main.o
+ .debug_macro   0x00000000       0x4a src/main.o
+ .debug_macro   0x00000000       0x52 src/main.o
+ .debug_macro   0x00000000       0x16 src/main.o
+ .debug_macro   0x00000000      0x180 src/main.o
  .debug_macro   0x00000000       0x7a src/main.o
  .debug_macro   0x00000000       0x3b src/main.o
  .debug_macro   0x00000000       0x1c src/main.o
@@ -317,6 +395,7 @@ Discarded input sections
  .text.vPortEndScheduler
                 0x00000000        0xc FreeRTOS/port.o
  .debug_macro   0x00000000      0x886 FreeRTOS/port.o
+ .debug_macro   0x00000000      0x166 FreeRTOS/port.o
  .debug_macro   0x00000000       0x22 FreeRTOS/port.o
  .debug_macro   0x00000000       0x44 FreeRTOS/port.o
  .debug_macro   0x00000000       0x1c FreeRTOS/port.o
@@ -414,6 +493,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 FreeRTOS/queue.o
  .debug_macro   0x00000000       0x29 FreeRTOS/queue.o
  .debug_macro   0x00000000       0x16 FreeRTOS/queue.o
+ .debug_macro   0x00000000       0x35 FreeRTOS/queue.o
  .debug_macro   0x00000000       0x1c FreeRTOS/queue.o
  .debug_macro   0x00000000      0x1f7 FreeRTOS/queue.o
  .debug_macro   0x00000000       0xe1 FreeRTOS/queue.o
@@ -609,6 +689,20 @@ Discarded input sections
  .comment       0x00000000       0x71 FreeRTOS/timers.o
  .ARM.attributes
                 0x00000000       0x33 FreeRTOS/timers.o
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a(del_op.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a(del_op.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a(del_op.o)
+ .text._ZdlPv   0x00000000        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a(del_op.o)
+ .ARM.extab.text._ZdlPv
+                0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a(del_op.o)
+ .ARM.exidx.text._ZdlPv
+                0x00000000        0x8 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a(del_op.o)
+ .debug_frame   0x00000000       0x20 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a(del_op.o)
+ .ARM.attributes
+                0x00000000       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libstdc++.a(del_op.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
  .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
  .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
  .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-exit.o)
@@ -619,16 +713,27 @@ Discarded input sections
  .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
  .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
  .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
- .data._impure_ptr
-                0x00000000        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
  .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
  .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
  .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-malloc.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-malloc.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-malloc.o)
+ .text.free     0x00000000       0x10 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-malloc.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
  .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
  .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
  .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
  .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
  .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mlock.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mlock.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mlock.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-sbrkr.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-sbrkr.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-sbrkr.o)
  .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
  .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
  .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
@@ -640,6 +745,16 @@ Discarded input sections
  .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
  .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
  .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-freer.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-freer.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-freer.o)
+ .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-reent.o)
+ .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-reent.o)
+ .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x00000000       0x1c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x88 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-reent.o)
  .text          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
  .data          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
  .bss           0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
@@ -667,7 +782,9 @@ LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.2
 LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
 LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m/crt0.o
 LOAD startup/startup_stm32.o
+LOAD startup/sysmem.o
 LOAD startup/system_stm32f30x.o
+LOAD src/CApplication.o
 LOAD src/main.o
 LOAD FreeRTOS/event_groups.o
 LOAD FreeRTOS/heap_5.o
@@ -695,7 +812,7 @@ LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.2
                 0x08000000                g_pfnVectors
                 0x08000188                . = ALIGN (0x4)
 
-.text           0x08000188     0x21ec
+.text           0x08000188     0x29fc
                 0x08000188                . = ALIGN (0x4)
  *(.text)
  .text          0x08000188       0x5c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
@@ -718,269 +835,291 @@ LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.2
                 0x08000360                SVC_Handler
                 0x08000360                BusFault_Handler
  *fill*         0x08000362        0x2 
+ .text._sbrk    0x08000364       0x58 startup/sysmem.o
+                0x08000364                _sbrk
  .text.SystemInit
-                0x08000364       0x74 startup/system_stm32f30x.o
-                0x08000364                SystemInit
+                0x080003bc       0x74 startup/system_stm32f30x.o
+                0x080003bc                SystemInit
  .text.SetSysClock
-                0x080003d8       0xe0 startup/system_stm32f30x.o
+                0x08000430       0xe0 startup/system_stm32f30x.o
  .text.NVIC_SetPriority
-                0x080004b8       0x5c src/main.o
+                0x08000510       0x5c src/main.o
  .text.SysTick_Config
-                0x08000514       0x50 src/main.o
+                0x0800056c       0x50 src/main.o
  .text._ZL12prvMainTask1Pv
-                0x08000564       0xa4 src/main.o
+                0x080005bc       0xa4 src/main.o
  .text._ZL12prvMainTask2Pv
-                0x08000608       0xa4 src/main.o
+                0x08000660       0xa4 src/main.o
  .text._ZL12prvMainTask3Pv
-                0x080006ac       0xa4 src/main.o
+                0x08000704       0xa4 src/main.o
  .text._ZL12prvMainTask4Pv
-                0x08000750       0xa4 src/main.o
- .text.main     0x080007f4      0x15c src/main.o
-                0x080007f4                main
+                0x080007a8       0xa4 src/main.o
+ .text.main     0x0800084c      0x15c src/main.o
+                0x0800084c                main
  .text.pvPortMalloc
-                0x08000950      0x11c FreeRTOS/heap_5.o
-                0x08000950                pvPortMalloc
+                0x080009a8      0x11c FreeRTOS/heap_5.o
+                0x080009a8                pvPortMalloc
  .text.vPortFree
-                0x08000a6c       0x70 FreeRTOS/heap_5.o
-                0x08000a6c                vPortFree
+                0x08000ac4       0x70 FreeRTOS/heap_5.o
+                0x08000ac4                vPortFree
  .text.prvInsertBlockIntoFreeList
-                0x08000adc       0xb0 FreeRTOS/heap_5.o
+                0x08000b34       0xb0 FreeRTOS/heap_5.o
  .text.vPortDefineHeapRegions
-                0x08000b8c      0x114 FreeRTOS/heap_5.o
-                0x08000b8c                vPortDefineHeapRegions
+                0x08000be4      0x114 FreeRTOS/heap_5.o
+                0x08000be4                vPortDefineHeapRegions
  .text.vListInitialise
-                0x08000ca0       0x40 FreeRTOS/list.o
-                0x08000ca0                vListInitialise
+                0x08000cf8       0x40 FreeRTOS/list.o
+                0x08000cf8                vListInitialise
  .text.vListInitialiseItem
-                0x08000ce0       0x18 FreeRTOS/list.o
-                0x08000ce0                vListInitialiseItem
+                0x08000d38       0x18 FreeRTOS/list.o
+                0x08000d38                vListInitialiseItem
  .text.vListInsertEnd
-                0x08000cf8       0x48 FreeRTOS/list.o
-                0x08000cf8                vListInsertEnd
+                0x08000d50       0x48 FreeRTOS/list.o
+                0x08000d50                vListInsertEnd
  .text.vListInsert
-                0x08000d40       0x70 FreeRTOS/list.o
-                0x08000d40                vListInsert
+                0x08000d98       0x70 FreeRTOS/list.o
+                0x08000d98                vListInsert
  .text.uxListRemove
-                0x08000db0       0x54 FreeRTOS/list.o
-                0x08000db0                uxListRemove
+                0x08000e08       0x54 FreeRTOS/list.o
+                0x08000e08                uxListRemove
  .text.pxPortInitialiseStack
-                0x08000e04       0x58 FreeRTOS/port.o
-                0x08000e04                pxPortInitialiseStack
+                0x08000e5c       0x58 FreeRTOS/port.o
+                0x08000e5c                pxPortInitialiseStack
  .text.prvTaskExitError
-                0x08000e5c        0xc FreeRTOS/port.o
+                0x08000eb4        0xc FreeRTOS/port.o
  .text.vPortSVCHandler
-                0x08000e68       0x24 FreeRTOS/port.o
-                0x08000e68                vPortSVCHandler
+                0x08000ec0       0x24 FreeRTOS/port.o
+                0x08000ec0                vPortSVCHandler
  .text.prvPortStartFirstTask
-                0x08000e8c       0x20 FreeRTOS/port.o
+                0x08000ee4       0x20 FreeRTOS/port.o
  .text.xPortStartScheduler
-                0x08000eac       0x3c FreeRTOS/port.o
-                0x08000eac                xPortStartScheduler
+                0x08000f04       0x3c FreeRTOS/port.o
+                0x08000f04                xPortStartScheduler
  .text.vPortYield
-                0x08000ee8       0x20 FreeRTOS/port.o
-                0x08000ee8                vPortYield
+                0x08000f40       0x20 FreeRTOS/port.o
+                0x08000f40                vPortYield
  .text.vPortEnterCritical
-                0x08000f08       0x20 FreeRTOS/port.o
-                0x08000f08                vPortEnterCritical
+                0x08000f60       0x20 FreeRTOS/port.o
+                0x08000f60                vPortEnterCritical
  .text.vPortExitCritical
-                0x08000f28       0x24 FreeRTOS/port.o
-                0x08000f28                vPortExitCritical
+                0x08000f80       0x24 FreeRTOS/port.o
+                0x08000f80                vPortExitCritical
  .text.ulPortSetInterruptMask
-                0x08000f4c       0x14 FreeRTOS/port.o
-                0x08000f4c                ulPortSetInterruptMask
+                0x08000fa4       0x14 FreeRTOS/port.o
+                0x08000fa4                ulPortSetInterruptMask
  .text.vPortClearInterruptMask
-                0x08000f60        0x8 FreeRTOS/port.o
-                0x08000f60                vPortClearInterruptMask
+                0x08000fb8        0x8 FreeRTOS/port.o
+                0x08000fb8                vPortClearInterruptMask
  .text.xPortPendSVHandler
-                0x08000f68       0x44 FreeRTOS/port.o
-                0x08000f68                xPortPendSVHandler
+                0x08000fc0       0x44 FreeRTOS/port.o
+                0x08000fc0                xPortPendSVHandler
  .text.xPortSysTickHandler
-                0x08000fac       0x28 FreeRTOS/port.o
-                0x08000fac                xPortSysTickHandler
+                0x08001004       0x28 FreeRTOS/port.o
+                0x08001004                xPortSysTickHandler
  .text.vPortSetupTimerInterrupt
-                0x08000fd4       0x24 FreeRTOS/port.o
-                0x08000fd4                vPortSetupTimerInterrupt
+                0x0800102c       0x24 FreeRTOS/port.o
+                0x0800102c                vPortSetupTimerInterrupt
  .text.xQueueCreateMutex
-                0x08000ff8       0x84 FreeRTOS/queue.o
-                0x08000ff8                xQueueCreateMutex
+                0x08001050       0x84 FreeRTOS/queue.o
+                0x08001050                xQueueCreateMutex
  .text.xQueueGenericSend
-                0x0800107c      0x124 FreeRTOS/queue.o
-                0x0800107c                xQueueGenericSend
+                0x080010d4      0x124 FreeRTOS/queue.o
+                0x080010d4                xQueueGenericSend
  .text.xQueueGenericReceive
-                0x080011a0      0x170 FreeRTOS/queue.o
-                0x080011a0                xQueueGenericReceive
+                0x080011f8      0x170 FreeRTOS/queue.o
+                0x080011f8                xQueueGenericReceive
  .text.prvCopyDataToQueue
-                0x08001310       0xdc FreeRTOS/queue.o
+                0x08001368       0xdc FreeRTOS/queue.o
  .text.prvCopyDataFromQueue
-                0x080013ec       0x4c FreeRTOS/queue.o
+                0x08001444       0x4c FreeRTOS/queue.o
  .text.prvUnlockQueue
-                0x08001438       0x98 FreeRTOS/queue.o
+                0x08001490       0x98 FreeRTOS/queue.o
  .text.prvIsQueueEmpty
-                0x080014d0       0x2c FreeRTOS/queue.o
+                0x08001528       0x2c FreeRTOS/queue.o
  .text.prvIsQueueFull
-                0x080014fc       0x30 FreeRTOS/queue.o
+                0x08001554       0x30 FreeRTOS/queue.o
  .text.xTaskGenericCreate
-                0x0800152c      0x140 FreeRTOS/tasks.o
-                0x0800152c                xTaskGenericCreate
+                0x08001584      0x140 FreeRTOS/tasks.o
+                0x08001584                xTaskGenericCreate
  .text.vTaskDelayUntil
-                0x0800166c       0xb8 FreeRTOS/tasks.o
-                0x0800166c                vTaskDelayUntil
+                0x080016c4       0xb8 FreeRTOS/tasks.o
+                0x080016c4                vTaskDelayUntil
  .text.vTaskStartScheduler
-                0x08001724       0x60 FreeRTOS/tasks.o
-                0x08001724                vTaskStartScheduler
+                0x0800177c       0x60 FreeRTOS/tasks.o
+                0x0800177c                vTaskStartScheduler
  .text.vTaskSuspendAll
-                0x08001784       0x1c FreeRTOS/tasks.o
-                0x08001784                vTaskSuspendAll
+                0x080017dc       0x1c FreeRTOS/tasks.o
+                0x080017dc                vTaskSuspendAll
  .text.xTaskResumeAll
-                0x080017a0      0x100 FreeRTOS/tasks.o
-                0x080017a0                xTaskResumeAll
+                0x080017f8      0x100 FreeRTOS/tasks.o
+                0x080017f8                xTaskResumeAll
  .text.xTaskGetTickCount
-                0x080018a0       0x20 FreeRTOS/tasks.o
-                0x080018a0                xTaskGetTickCount
+                0x080018f8       0x20 FreeRTOS/tasks.o
+                0x080018f8                xTaskGetTickCount
  .text.xTaskIncrementTick
-                0x080018c0      0x160 FreeRTOS/tasks.o
-                0x080018c0                xTaskIncrementTick
+                0x08001918      0x160 FreeRTOS/tasks.o
+                0x08001918                xTaskIncrementTick
  .text.vTaskSwitchContext
-                0x08001a20       0x8c FreeRTOS/tasks.o
-                0x08001a20                vTaskSwitchContext
+                0x08001a78       0x8c FreeRTOS/tasks.o
+                0x08001a78                vTaskSwitchContext
  .text.vTaskPlaceOnEventList
-                0x08001aac       0x80 FreeRTOS/tasks.o
-                0x08001aac                vTaskPlaceOnEventList
+                0x08001b04       0x80 FreeRTOS/tasks.o
+                0x08001b04                vTaskPlaceOnEventList
  .text.xTaskRemoveFromEventList
-                0x08001b2c       0xac FreeRTOS/tasks.o
-                0x08001b2c                xTaskRemoveFromEventList
+                0x08001b84       0xac FreeRTOS/tasks.o
+                0x08001b84                xTaskRemoveFromEventList
  .text.vTaskSetTimeOutState
-                0x08001bd8       0x2c FreeRTOS/tasks.o
-                0x08001bd8                vTaskSetTimeOutState
+                0x08001c30       0x2c FreeRTOS/tasks.o
+                0x08001c30                vTaskSetTimeOutState
  .text.xTaskCheckForTimeOut
-                0x08001c04       0x88 FreeRTOS/tasks.o
-                0x08001c04                xTaskCheckForTimeOut
+                0x08001c5c       0x88 FreeRTOS/tasks.o
+                0x08001c5c                xTaskCheckForTimeOut
  .text.vTaskMissedYield
-                0x08001c8c       0x18 FreeRTOS/tasks.o
-                0x08001c8c                vTaskMissedYield
+                0x08001ce4       0x18 FreeRTOS/tasks.o
+                0x08001ce4                vTaskMissedYield
  .text.prvIdleTask
-                0x08001ca4       0x20 FreeRTOS/tasks.o
+                0x08001cfc       0x20 FreeRTOS/tasks.o
  .text.prvInitialiseTCBVariables
-                0x08001cc4       0xa4 FreeRTOS/tasks.o
+                0x08001d1c       0xa4 FreeRTOS/tasks.o
  .text.prvInitialiseTaskLists
-                0x08001d68       0x7c FreeRTOS/tasks.o
+                0x08001dc0       0x7c FreeRTOS/tasks.o
  .text.prvCheckTasksWaitingTermination
-                0x08001de4       0x74 FreeRTOS/tasks.o
+                0x08001e3c       0x74 FreeRTOS/tasks.o
  .text.prvAddCurrentTaskToDelayedList
-                0x08001e58       0x6c FreeRTOS/tasks.o
+                0x08001eb0       0x6c FreeRTOS/tasks.o
  .text.prvAllocateTCBAndStack
-                0x08001ec4       0x70 FreeRTOS/tasks.o
+                0x08001f1c       0x70 FreeRTOS/tasks.o
  .text.prvDeleteTCB
-                0x08001f34       0x20 FreeRTOS/tasks.o
+                0x08001f8c       0x20 FreeRTOS/tasks.o
  .text.prvResetNextTaskUnblockTime
-                0x08001f54       0x48 FreeRTOS/tasks.o
+                0x08001fac       0x48 FreeRTOS/tasks.o
  .text.vTaskPriorityInherit
-                0x08001f9c       0xf0 FreeRTOS/tasks.o
-                0x08001f9c                vTaskPriorityInherit
+                0x08001ff4       0xf0 FreeRTOS/tasks.o
+                0x08001ff4                vTaskPriorityInherit
  .text.xTaskPriorityDisinherit
-                0x0800208c       0xcc FreeRTOS/tasks.o
-                0x0800208c                xTaskPriorityDisinherit
+                0x080020e4       0xcc FreeRTOS/tasks.o
+                0x080020e4                xTaskPriorityDisinherit
  .text.pvTaskIncrementMutexHeldCount
-                0x08002158       0x28 FreeRTOS/tasks.o
-                0x08002158                pvTaskIncrementMutexHeldCount
+                0x080021b0       0x28 FreeRTOS/tasks.o
+                0x080021b0                pvTaskIncrementMutexHeldCount
+ .text.__errno  0x080021d8        0xc d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+                0x080021d8                __errno
  .text.__libc_init_array
-                0x08002180       0x50 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
-                0x08002180                __libc_init_array
- .text.memset   0x080021d0       0x9c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
-                0x080021d0                memset
+                0x080021e4       0x50 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+                0x080021e4                __libc_init_array
+ .text.malloc   0x08002234       0x10 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-malloc.o)
+                0x08002234                malloc
+ .text._malloc_r
+                0x08002244      0x524 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+                0x08002244                _malloc_r
+ .text.memset   0x08002768       0x9c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+                0x08002768                memset
+ .text.__malloc_lock
+                0x08002804        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mlock.o)
+                0x08002804                __malloc_lock
+ .text.__malloc_unlock
+                0x08002808        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mlock.o)
+                0x08002808                __malloc_unlock
+ .text._sbrk_r  0x0800280c       0x24 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-sbrkr.o)
+                0x0800280c                _sbrk_r
  .text.startup.register_fini
-                0x0800226c       0x14 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
- .text.atexit   0x08002280        0xc d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
-                0x08002280                atexit
+                0x08002830       0x14 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08002844        0xc d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                0x08002844                atexit
  .text.__libc_fini_array
-                0x0800228c       0x2c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
-                0x0800228c                __libc_fini_array
+                0x08002850       0x2c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+                0x08002850                __libc_fini_array
+ .text._malloc_trim_r
+                0x0800287c       0x9c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-freer.o)
+                0x0800287c                _malloc_trim_r
+ .text._free_r  0x08002918      0x1b0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-freer.o)
+                0x08002918                _free_r
  .text.__register_exitproc
-                0x080022b8       0xa4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
-                0x080022b8                __register_exitproc
+                0x08002ac8       0xa4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+                0x08002ac8                __register_exitproc
  *(.glue_7)
  .glue_7        0x00000000        0x0 linker stubs
  *(.glue_7t)
  .glue_7t       0x00000000        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x0800235c        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .eh_frame      0x08002b6c        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
  *(.init)
- .init          0x0800235c        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
-                0x0800235c                _init
- .init          0x08002360        0x8 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+ .init          0x08002b6c        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x08002b6c                _init
+ .init          0x08002b70        0x8 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
  *(.fini)
- .fini          0x08002368        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
-                0x08002368                _fini
- .fini          0x0800236c        0x8 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
-                0x08002374                . = ALIGN (0x4)
-                0x08002374                _etext = .
+ .fini          0x08002b78        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crti.o
+                0x08002b78                _fini
+ .fini          0x08002b7c        0x8 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+                0x08002b84                . = ALIGN (0x4)
+                0x08002b84                _etext = .
 
-.vfp11_veneer   0x08002374        0x0
+.vfp11_veneer   0x08002b84        0x0
  .vfp11_veneer  0x00000000        0x0 linker stubs
 
-.v4_bx          0x08002374        0x0
+.v4_bx          0x08002b84        0x0
  .v4_bx         0x00000000        0x0 linker stubs
 
-.iplt           0x08002374        0x0
+.iplt           0x08002b84        0x0
  .iplt          0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
 
-.rodata         0x08002374       0x30
-                0x08002374                . = ALIGN (0x4)
+.rodata         0x08002b84       0x30
+                0x08002b84                . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x08002374       0x20 src/main.o
- .rodata        0x08002394        0x8 FreeRTOS/tasks.o
+ .rodata        0x08002b84       0x20 src/main.o
+ .rodata        0x08002ba4        0x8 FreeRTOS/tasks.o
  *(.rodata*)
  .rodata.str1.4
-                0x0800239c        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x08002bac        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
  .rodata._global_impure_ptr
-                0x080023a0        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
-                0x080023a0                _global_impure_ptr
-                0x080023a4                . = ALIGN (0x4)
+                0x08002bb0        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x08002bb0                _global_impure_ptr
+                0x08002bb4                . = ALIGN (0x4)
 
-.rel.dyn        0x080023a4        0x0
+.rel.dyn        0x08002bb4        0x0
  .rel.iplt      0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
 
-.ARM.extab      0x080023a4        0x0
-                0x080023a4                . = ALIGN (0x4)
+.ARM.extab      0x08002bb4        0x0
+                0x08002bb4                . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x080023a4                . = ALIGN (0x4)
+                0x08002bb4                . = ALIGN (0x4)
 
-.ARM            0x080023a4        0x0
-                0x080023a4                . = ALIGN (0x4)
-                0x080023a4                __exidx_start = .
+.ARM            0x08002bb4        0x0
+                0x08002bb4                . = ALIGN (0x4)
+                0x08002bb4                __exidx_start = .
  *(.ARM.exidx*)
-                0x080023a4                __exidx_end = .
-                0x080023a4                . = ALIGN (0x4)
+                0x08002bb4                __exidx_end = .
+                0x08002bb4                . = ALIGN (0x4)
 
-.preinit_array  0x080023a4        0x0
-                0x080023a4                . = ALIGN (0x4)
-                0x080023a4                PROVIDE (__preinit_array_start, .)
+.preinit_array  0x08002bb4        0x0
+                0x08002bb4                . = ALIGN (0x4)
+                0x08002bb4                PROVIDE (__preinit_array_start, .)
  *(.preinit_array*)
-                0x080023a4                PROVIDE (__preinit_array_end, .)
-                0x080023a4                . = ALIGN (0x4)
+                0x08002bb4                PROVIDE (__preinit_array_end, .)
+                0x08002bb4                . = ALIGN (0x4)
 
-.init_array     0x080023a4        0x8
-                0x080023a4                . = ALIGN (0x4)
-                0x080023a4                PROVIDE (__init_array_start, .)
+.init_array     0x08002bb4        0x8
+                0x08002bb4                . = ALIGN (0x4)
+                0x08002bb4                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  .init_array.00000
-                0x080023a4        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+                0x08002bb4        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x080023a8        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
-                0x080023ac                PROVIDE (__init_array_end, .)
-                0x080023ac                . = ALIGN (0x4)
+ .init_array    0x08002bb8        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x08002bbc                PROVIDE (__init_array_end, .)
+                0x08002bbc                . = ALIGN (0x4)
 
-.fini_array     0x080023ac        0x4
-                0x080023ac                . = ALIGN (0x4)
-                0x080023ac                PROVIDE (__fini_array_start, .)
+.fini_array     0x08002bbc        0x4
+                0x08002bbc                . = ALIGN (0x4)
+                0x08002bbc                PROVIDE (__fini_array_start, .)
  *(SORT(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x080023ac        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
-                0x080023b0                PROVIDE (__fini_array_end, .)
-                0x080023b0                . = ALIGN (0x4)
-                0x080023b0                _sidata = LOADADDR (.data)
+ .fini_array    0x08002bbc        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+                0x08002bc0                PROVIDE (__fini_array_end, .)
+                0x08002bc0                . = ALIGN (0x4)
+                0x08002bc0                _sidata = LOADADDR (.data)
 
-.data           0x20000000      0x450 load address 0x080023b0
+.data           0x20000000      0x864 load address 0x08002bc0
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _sdata = .
  *(.data)
@@ -993,42 +1132,69 @@ LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.2
  *(.data*)
  .data.impure_data
                 0x20000028      0x428 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
-                0x20000450                . = ALIGN (0x4)
-                0x20000450                _edata = .
+ .data._impure_ptr
+                0x20000450        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x20000450                _impure_ptr
+ .data.__malloc_av_
+                0x20000454      0x408 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+                0x20000454                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x2000085c        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+                0x2000085c                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x20000860        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+                0x20000860                __malloc_sbrk_base
+                0x20000864                . = ALIGN (0x4)
+                0x20000864                _edata = .
 
-.jcr            0x20000450        0x0 load address 0x08002800
- .jcr           0x20000450        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+.jcr            0x20000864        0x0 load address 0x08003424
+ .jcr           0x20000864        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
 
-.igot.plt       0x20000450        0x0 load address 0x08002800
+.igot.plt       0x20000864        0x0 load address 0x08003424
  .igot.plt      0x00000000        0x0 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
-                0x20000450                . = ALIGN (0x4)
+                0x20000864                . = ALIGN (0x4)
 
-.bss            0x20000450      0x138 load address 0x08002800
-                0x20000450                _sbss = .
-                0x20000450                __bss_start__ = _sbss
+.bss            0x20000864      0x174 load address 0x08003424
+                0x20000864                _sbss = .
+                0x20000864                __bss_start__ = _sbss
  *(.bss)
- .bss           0x20000450       0x1c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
- .bss           0x2000046c        0x4 src/main.o
-                0x2000046c                xSemaphore
- .bss           0x20000470       0x18 FreeRTOS/heap_5.o
- .bss           0x20000488      0x100 FreeRTOS/tasks.o
-                0x20000488                pxCurrentTCB
+ .bss           0x20000864       0x1c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtbegin.o
+ .bss           0x20000880        0x4 startup/sysmem.o
+ .bss           0x20000884        0x4 src/main.o
+                0x20000884                xSemaphore
+ .bss           0x20000888       0x18 FreeRTOS/heap_5.o
+ .bss           0x200008a0      0x100 FreeRTOS/tasks.o
+                0x200008a0                pxCurrentTCB
  *(.bss*)
+ .bss.__malloc_max_total_mem
+                0x200009a0        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+                0x200009a0                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x200009a4        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+                0x200009a4                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x200009a8        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+                0x200009a8                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x200009ac       0x28 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+                0x200009ac                __malloc_current_mallinfo
  *(COMMON)
-                0x20000588                . = ALIGN (0x4)
-                0x20000588                _ebss = .
-                0x20000588                __bss_end__ = _ebss
+ COMMON         0x200009d4        0x4 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-reent.o)
+                0x200009d4                errno
+                0x200009d8                . = ALIGN (0x4)
+                0x200009d8                _ebss = .
+                0x200009d8                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000588      0x700 load address 0x08002800
-                0x20000588                . = ALIGN (0x8)
-                0x20000588                PROVIDE (end, .)
-                0x20000588                PROVIDE (_end, .)
-                0x20000888                . = (. + _Min_Heap_Size)
- *fill*         0x20000588      0x300 
-                0x20000c88                . = (. + _Min_Stack_Size)
- *fill*         0x20000888      0x400 
-                0x20000c88                . = ALIGN (0x8)
+                0x200009d8      0x700 load address 0x08003424
+                0x200009d8                . = ALIGN (0x8)
+                0x200009d8                PROVIDE (end, .)
+                0x200009d8                PROVIDE (_end, .)
+                0x20000cd8                . = (. + _Min_Heap_Size)
+ *fill*         0x200009d8      0x300 
+                0x200010d8                . = (. + _Min_Stack_Size)
+ *fill*         0x20000cd8      0x400 
+                0x200010d8                . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -1045,167 +1211,204 @@ LOAD d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.2
  .ARM.attributes
                 0x0000004c       0x21 startup/startup_stm32.o
  .ARM.attributes
-                0x0000006d       0x33 startup/system_stm32f30x.o
+                0x0000006d       0x33 startup/sysmem.o
  .ARM.attributes
-                0x000000a0       0x33 src/main.o
+                0x000000a0       0x33 startup/system_stm32f30x.o
  .ARM.attributes
-                0x000000d3       0x33 FreeRTOS/heap_5.o
+                0x000000d3       0x33 src/main.o
  .ARM.attributes
-                0x00000106       0x33 FreeRTOS/list.o
+                0x00000106       0x33 FreeRTOS/heap_5.o
  .ARM.attributes
-                0x00000139       0x33 FreeRTOS/port.o
+                0x00000139       0x33 FreeRTOS/list.o
  .ARM.attributes
-                0x0000016c       0x33 FreeRTOS/queue.o
+                0x0000016c       0x33 FreeRTOS/port.o
  .ARM.attributes
-                0x0000019f       0x33 FreeRTOS/tasks.o
+                0x0000019f       0x33 FreeRTOS/queue.o
  .ARM.attributes
-                0x000001d2       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
+                0x000001d2       0x33 FreeRTOS/tasks.o
  .ARM.attributes
-                0x00000200       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+                0x00000205       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
  .ARM.attributes
-                0x0000022e       0x1c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
+                0x00000233       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-impure.o)
  .ARM.attributes
-                0x0000024a       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+                0x00000261       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
  .ARM.attributes
-                0x00000278       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+                0x0000028f       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-malloc.o)
  .ARM.attributes
-                0x000002a6       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+                0x000002bd       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
  .ARM.attributes
-                0x000002d4       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+                0x000002eb       0x1c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memcpy.o)
  .ARM.attributes
-                0x00000302       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+                0x00000307       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
  .ARM.attributes
-                0x00000330       0x1e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
+                0x00000335       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000363       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000391       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000003bf       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000003ed       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000041b       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000449       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000477       0x2e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000004a5       0x1e d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7e-m/crtn.o
 OUTPUT(demo1.elf elf32-littlearm)
 
-.debug_line     0x00000000     0x2a77
+.debug_line     0x00000000     0x2db7
  .debug_line    0x00000000       0x79 startup/startup_stm32.o
- .debug_line    0x00000079      0x399 startup/system_stm32f30x.o
- .debug_line    0x00000412      0x567 src/main.o
- .debug_line    0x00000979      0x4c5 FreeRTOS/heap_5.o
- .debug_line    0x00000e3e      0x451 FreeRTOS/list.o
- .debug_line    0x0000128f      0x46c FreeRTOS/port.o
- .debug_line    0x000016fb      0x76c FreeRTOS/queue.o
- .debug_line    0x00001e67      0xc10 FreeRTOS/tasks.o
+ .debug_line    0x00000079      0x339 startup/sysmem.o
+ .debug_line    0x000003b2      0x399 startup/system_stm32f30x.o
+ .debug_line    0x0000074b      0x56e src/main.o
+ .debug_line    0x00000cb9      0x4c5 FreeRTOS/heap_5.o
+ .debug_line    0x0000117e      0x451 FreeRTOS/list.o
+ .debug_line    0x000015cf      0x46c FreeRTOS/port.o
+ .debug_line    0x00001a3b      0x76c FreeRTOS/queue.o
+ .debug_line    0x000021a7      0xc10 FreeRTOS/tasks.o
 
-.debug_info     0x00000000     0x36e9
+.debug_info     0x00000000     0x3801
  .debug_info    0x00000000       0x5f startup/startup_stm32.o
- .debug_info    0x0000005f      0x311 startup/system_stm32f30x.o
- .debug_info    0x00000370      0xad4 src/main.o
- .debug_info    0x00000e44      0x34a FreeRTOS/heap_5.o
- .debug_info    0x0000118e      0x2a1 FreeRTOS/list.o
- .debug_info    0x0000142f      0x23c FreeRTOS/port.o
- .debug_info    0x0000166b      0xb14 FreeRTOS/queue.o
- .debug_info    0x0000217f     0x156a FreeRTOS/tasks.o
+ .debug_info    0x0000005f      0x101 startup/sysmem.o
+ .debug_info    0x00000160      0x311 startup/system_stm32f30x.o
+ .debug_info    0x00000471      0xaeb src/main.o
+ .debug_info    0x00000f5c      0x34a FreeRTOS/heap_5.o
+ .debug_info    0x000012a6      0x2a1 FreeRTOS/list.o
+ .debug_info    0x00001547      0x23c FreeRTOS/port.o
+ .debug_info    0x00001783      0xb14 FreeRTOS/queue.o
+ .debug_info    0x00002297     0x156a FreeRTOS/tasks.o
 
-.debug_abbrev   0x00000000      0xab7
+.debug_abbrev   0x00000000      0xb6d
  .debug_abbrev  0x00000000       0x12 startup/startup_stm32.o
- .debug_abbrev  0x00000012      0x14a startup/system_stm32f30x.o
- .debug_abbrev  0x0000015c      0x1f7 src/main.o
- .debug_abbrev  0x00000353      0x14b FreeRTOS/heap_5.o
- .debug_abbrev  0x0000049e       0xc1 FreeRTOS/list.o
- .debug_abbrev  0x0000055f      0x165 FreeRTOS/port.o
- .debug_abbrev  0x000006c4      0x17a FreeRTOS/queue.o
- .debug_abbrev  0x0000083e      0x279 FreeRTOS/tasks.o
+ .debug_abbrev  0x00000012       0xa1 startup/sysmem.o
+ .debug_abbrev  0x000000b3      0x14a startup/system_stm32f30x.o
+ .debug_abbrev  0x000001fd      0x20c src/main.o
+ .debug_abbrev  0x00000409      0x14b FreeRTOS/heap_5.o
+ .debug_abbrev  0x00000554       0xc1 FreeRTOS/list.o
+ .debug_abbrev  0x00000615      0x165 FreeRTOS/port.o
+ .debug_abbrev  0x0000077a      0x17a FreeRTOS/queue.o
+ .debug_abbrev  0x000008f4      0x279 FreeRTOS/tasks.o
 
-.debug_aranges  0x00000000      0x450
+.debug_aranges  0x00000000      0x470
  .debug_aranges
                 0x00000000       0x28 startup/startup_stm32.o
  .debug_aranges
-                0x00000028       0x30 startup/system_stm32f30x.o
+                0x00000028       0x20 startup/sysmem.o
  .debug_aranges
-                0x00000058       0x50 src/main.o
+                0x00000048       0x30 startup/system_stm32f30x.o
  .debug_aranges
-                0x000000a8       0x48 FreeRTOS/heap_5.o
+                0x00000078       0x50 src/main.o
  .debug_aranges
-                0x000000f0       0x40 FreeRTOS/list.o
+                0x000000c8       0x48 FreeRTOS/heap_5.o
  .debug_aranges
-                0x00000130       0x88 FreeRTOS/port.o
+                0x00000110       0x40 FreeRTOS/list.o
  .debug_aranges
-                0x000001b8       0xe8 FreeRTOS/queue.o
+                0x00000150       0x88 FreeRTOS/port.o
  .debug_aranges
-                0x000002a0      0x1b0 FreeRTOS/tasks.o
+                0x000001d8       0xe8 FreeRTOS/queue.o
+ .debug_aranges
+                0x000002c0      0x1b0 FreeRTOS/tasks.o
 
-.debug_ranges   0x00000000      0x3d8
+.debug_ranges   0x00000000      0x3e8
  .debug_ranges  0x00000000       0x20 startup/startup_stm32.o
- .debug_ranges  0x00000020       0x20 startup/system_stm32f30x.o
- .debug_ranges  0x00000040       0x40 src/main.o
- .debug_ranges  0x00000080       0x38 FreeRTOS/heap_5.o
- .debug_ranges  0x000000b8       0x30 FreeRTOS/list.o
- .debug_ranges  0x000000e8       0x78 FreeRTOS/port.o
- .debug_ranges  0x00000160       0xd8 FreeRTOS/queue.o
- .debug_ranges  0x00000238      0x1a0 FreeRTOS/tasks.o
+ .debug_ranges  0x00000020       0x10 startup/sysmem.o
+ .debug_ranges  0x00000030       0x20 startup/system_stm32f30x.o
+ .debug_ranges  0x00000050       0x40 src/main.o
+ .debug_ranges  0x00000090       0x38 FreeRTOS/heap_5.o
+ .debug_ranges  0x000000c8       0x30 FreeRTOS/list.o
+ .debug_ranges  0x000000f8       0x78 FreeRTOS/port.o
+ .debug_ranges  0x00000170       0xd8 FreeRTOS/queue.o
+ .debug_ranges  0x00000248      0x1a0 FreeRTOS/tasks.o
 
-.debug_macro    0x00000000     0xc4a0
- .debug_macro   0x00000000       0x99 startup/system_stm32f30x.o
- .debug_macro   0x00000099      0x886 startup/system_stm32f30x.o
- .debug_macro   0x0000091f       0x7a startup/system_stm32f30x.o
- .debug_macro   0x00000999       0x3b startup/system_stm32f30x.o
- .debug_macro   0x000009d4       0x22 startup/system_stm32f30x.o
- .debug_macro   0x000009f6       0x44 startup/system_stm32f30x.o
- .debug_macro   0x00000a3a       0x1c startup/system_stm32f30x.o
- .debug_macro   0x00000a56      0x1f7 startup/system_stm32f30x.o
- .debug_macro   0x00000c4d       0x2d startup/system_stm32f30x.o
- .debug_macro   0x00000c7a       0x26 startup/system_stm32f30x.o
- .debug_macro   0x00000ca0      0xd39 startup/system_stm32f30x.o
- .debug_macro   0x000019d9     0x76cc startup/system_stm32f30x.o
- .debug_macro   0x000090a5      0x224 src/main.o
- .debug_macro   0x000092c9      0x8aa src/main.o
- .debug_macro   0x00009b73       0x58 src/main.o
- .debug_macro   0x00009bcb       0x35 src/main.o
- .debug_macro   0x00009c00       0x9c src/main.o
- .debug_macro   0x00009c9c       0x16 src/main.o
- .debug_macro   0x00009cb2      0x10e src/main.o
- .debug_macro   0x00009dc0       0x7f src/main.o
- .debug_macro   0x00009e3f       0x4a src/main.o
- .debug_macro   0x00009e89       0x52 src/main.o
- .debug_macro   0x00009edb       0x16 src/main.o
- .debug_macro   0x00009ef1       0x43 src/main.o
- .debug_macro   0x00009f34      0x180 src/main.o
- .debug_macro   0x0000a0b4      0x2b2 src/main.o
- .debug_macro   0x0000a366       0x16 src/main.o
- .debug_macro   0x0000a37c       0x29 src/main.o
- .debug_macro   0x0000a3a5       0x16 src/main.o
- .debug_macro   0x0000a3bb       0x35 src/main.o
- .debug_macro   0x0000a3f0      0xd39 src/main.o
- .debug_macro   0x0000b129       0xe1 src/main.o
- .debug_macro   0x0000b20a      0x15d src/main.o
- .debug_macro   0x0000b367       0xd2 src/main.o
- .debug_macro   0x0000b439       0x10 src/main.o
- .debug_macro   0x0000b449       0x1f src/main.o
- .debug_macro   0x0000b468      0x3ed src/main.o
- .debug_macro   0x0000b855       0xc0 src/main.o
- .debug_macro   0x0000b915       0x9a src/main.o
- .debug_macro   0x0000b9af       0xb0 src/main.o
- .debug_macro   0x0000ba5f       0x7f src/main.o
- .debug_macro   0x0000bade      0x186 FreeRTOS/heap_5.o
- .debug_macro   0x0000bc64      0x15e FreeRTOS/list.o
- .debug_macro   0x0000bdc2      0x157 FreeRTOS/port.o
- .debug_macro   0x0000bf19      0x166 FreeRTOS/port.o
- .debug_macro   0x0000c07f      0x1d0 FreeRTOS/queue.o
- .debug_macro   0x0000c24f       0x35 FreeRTOS/queue.o
- .debug_macro   0x0000c284      0x20c FreeRTOS/tasks.o
- .debug_macro   0x0000c490       0x10 FreeRTOS/tasks.o
+.debug_macro    0x00000000     0xc599
+ .debug_macro   0x00000000      0x116 startup/sysmem.o
+ .debug_macro   0x00000116      0x886 startup/sysmem.o
+ .debug_macro   0x0000099c       0x10 startup/sysmem.o
+ .debug_macro   0x000009ac       0x58 startup/sysmem.o
+ .debug_macro   0x00000a04       0x22 startup/sysmem.o
+ .debug_macro   0x00000a26       0x35 startup/sysmem.o
+ .debug_macro   0x00000a5b       0x9c startup/sysmem.o
+ .debug_macro   0x00000af7      0x166 startup/sysmem.o
+ .debug_macro   0x00000c5d       0x4a startup/sysmem.o
+ .debug_macro   0x00000ca7       0x52 startup/sysmem.o
+ .debug_macro   0x00000cf9       0x16 startup/sysmem.o
+ .debug_macro   0x00000d0f       0x43 startup/sysmem.o
+ .debug_macro   0x00000d52      0x180 startup/sysmem.o
+ .debug_macro   0x00000ed2      0x23b startup/sysmem.o
+ .debug_macro   0x0000110d       0x16 startup/sysmem.o
+ .debug_macro   0x00001123       0x35 startup/sysmem.o
+ .debug_macro   0x00001158      0x29d startup/sysmem.o
+ .debug_macro   0x000013f5       0x10 startup/sysmem.o
+ .debug_macro   0x00001405       0x10 startup/sysmem.o
+ .debug_macro   0x00001415       0x22 startup/sysmem.o
+ .debug_macro   0x00001437       0xbd startup/sysmem.o
+ .debug_macro   0x000014f4       0x16 startup/sysmem.o
+ .debug_macro   0x0000150a      0x196 startup/sysmem.o
+ .debug_macro   0x000016a0       0x99 startup/system_stm32f30x.o
+ .debug_macro   0x00001739       0x7a startup/system_stm32f30x.o
+ .debug_macro   0x000017b3       0x3b startup/system_stm32f30x.o
+ .debug_macro   0x000017ee       0x44 startup/system_stm32f30x.o
+ .debug_macro   0x00001832       0x1c startup/system_stm32f30x.o
+ .debug_macro   0x0000184e      0x1f7 startup/system_stm32f30x.o
+ .debug_macro   0x00001a45       0x2d startup/system_stm32f30x.o
+ .debug_macro   0x00001a72       0x26 startup/system_stm32f30x.o
+ .debug_macro   0x00001a98      0xd39 startup/system_stm32f30x.o
+ .debug_macro   0x000027d1     0x76cc startup/system_stm32f30x.o
+ .debug_macro   0x00009e9d      0x22a src/main.o
+ .debug_macro   0x0000a0c7       0x9c src/main.o
+ .debug_macro   0x0000a163       0x16 src/main.o
+ .debug_macro   0x0000a179      0x10e src/main.o
+ .debug_macro   0x0000a287       0x8d src/main.o
+ .debug_macro   0x0000a314       0x43 src/main.o
+ .debug_macro   0x0000a357      0x2a4 src/main.o
+ .debug_macro   0x0000a5fb       0x22 src/main.o
+ .debug_macro   0x0000a61d       0x16 src/main.o
+ .debug_macro   0x0000a633       0x35 src/main.o
+ .debug_macro   0x0000a668       0x1c src/main.o
+ .debug_macro   0x0000a684      0xd39 src/main.o
+ .debug_macro   0x0000b3bd       0xe1 src/main.o
+ .debug_macro   0x0000b49e      0x15d src/main.o
+ .debug_macro   0x0000b5fb       0xd2 src/main.o
+ .debug_macro   0x0000b6cd       0x10 src/main.o
+ .debug_macro   0x0000b6dd       0x1f src/main.o
+ .debug_macro   0x0000b6fc      0x3ed src/main.o
+ .debug_macro   0x0000bae9       0xc0 src/main.o
+ .debug_macro   0x0000bba9       0x9a src/main.o
+ .debug_macro   0x0000bc43       0xb0 src/main.o
+ .debug_macro   0x0000bcf3       0x7f src/main.o
+ .debug_macro   0x0000bd72      0x186 FreeRTOS/heap_5.o
+ .debug_macro   0x0000bef8      0x15e FreeRTOS/list.o
+ .debug_macro   0x0000c056      0x157 FreeRTOS/port.o
+ .debug_macro   0x0000c1ad      0x1d0 FreeRTOS/queue.o
+ .debug_macro   0x0000c37d      0x20c FreeRTOS/tasks.o
+ .debug_macro   0x0000c589       0x10 FreeRTOS/tasks.o
 
-.debug_str      0x00000000    0x3c021
- .debug_str     0x00000000    0x31de9 startup/system_stm32f30x.o
+.debug_str      0x00000000    0x3d23f
+ .debug_str     0x00000000     0x5969 startup/sysmem.o
+                               0x5bf9 (size before relaxing)
+ .debug_str     0x00005969    0x2f7cf startup/system_stm32f30x.o
                               0x31f61 (size before relaxing)
- .debug_str     0x00031de9     0x7723 src/main.o
-                              0x39574 (size before relaxing)
- .debug_str     0x0003950c      0x37c FreeRTOS/heap_5.o
+ .debug_str     0x00035138     0x5661 src/main.o
+                              0x39790 (size before relaxing)
+ .debug_str     0x0003a799      0x30d FreeRTOS/heap_5.o
                                0x8daf (size before relaxing)
- .debug_str     0x00039888      0x11e FreeRTOS/list.o
+ .debug_str     0x0003aaa6      0x11e FreeRTOS/list.o
                                0x849d (size before relaxing)
- .debug_str     0x000399a6      0x647 FreeRTOS/port.o
+ .debug_str     0x0003abc4      0x647 FreeRTOS/port.o
                                0x6e96 (size before relaxing)
- .debug_str     0x00039fed      0x65f FreeRTOS/queue.o
+ .debug_str     0x0003b20b      0x65f FreeRTOS/queue.o
                                0x9cae (size before relaxing)
- .debug_str     0x0003a64c     0x19d5 FreeRTOS/tasks.o
+ .debug_str     0x0003b86a     0x19d5 FreeRTOS/tasks.o
                                0xa6e6 (size before relaxing)
 
 .comment        0x00000000       0x70
- .comment       0x00000000       0x70 startup/system_stm32f30x.o
+ .comment       0x00000000       0x70 startup/sysmem.o
                                  0x71 (size before relaxing)
+ .comment       0x00000000       0x71 startup/system_stm32f30x.o
  .comment       0x00000000       0x71 src/main.o
  .comment       0x00000000       0x71 FreeRTOS/heap_5.o
  .comment       0x00000000       0x71 FreeRTOS/list.o
@@ -1213,17 +1416,25 @@ OUTPUT(demo1.elf elf32-littlearm)
  .comment       0x00000000       0x71 FreeRTOS/queue.o
  .comment       0x00000000       0x71 FreeRTOS/tasks.o
 
-.debug_frame    0x00000000     0x1110
- .debug_frame   0x00000000       0x7c startup/system_stm32f30x.o
- .debug_frame   0x0000007c       0xfc src/main.o
- .debug_frame   0x00000178       0xe8 FreeRTOS/heap_5.o
- .debug_frame   0x00000260       0xd8 FreeRTOS/list.o
- .debug_frame   0x00000338      0x174 FreeRTOS/port.o
- .debug_frame   0x000004ac      0x3d8 FreeRTOS/queue.o
- .debug_frame   0x00000884      0x754 FreeRTOS/tasks.o
- .debug_frame   0x00000fd8       0x2c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
- .debug_frame   0x00001004       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
- .debug_frame   0x00001038       0x50 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
- .debug_frame   0x00001088       0x20 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
- .debug_frame   0x000010a8       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
- .debug_frame   0x000010dc       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)
+.debug_frame    0x00000000     0x1314
+ .debug_frame   0x00000000       0x34 startup/sysmem.o
+ .debug_frame   0x00000034       0x7c startup/system_stm32f30x.o
+ .debug_frame   0x000000b0       0xfc src/main.o
+ .debug_frame   0x000001ac       0xe8 FreeRTOS/heap_5.o
+ .debug_frame   0x00000294       0xd8 FreeRTOS/list.o
+ .debug_frame   0x0000036c      0x174 FreeRTOS/port.o
+ .debug_frame   0x000004e0      0x3d8 FreeRTOS/queue.o
+ .debug_frame   0x000008b8      0x754 FreeRTOS/tasks.o
+ .debug_frame   0x0000100c       0x20 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-errno.o)
+ .debug_frame   0x0000102c       0x2c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00001058       0x30 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-malloc.o)
+ .debug_frame   0x00001088       0x58 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x000010e0       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00001114       0x30 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00001144       0x2c d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00001170       0x50 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000011c0       0x20 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x000011e0       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00001214       0x74 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-freer.o)
+ .debug_frame   0x00001288       0x58 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-reent.o)
+ .debug_frame   0x000012e0       0x34 d:/linuxdev/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.3.0.201507241045/tools/compiler/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7e-m\libc.a(lib_a-__atexit.o)

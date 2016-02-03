@@ -1,5 +1,7 @@
 "startup/startup_stm32.o"
+"startup/sysmem.o"
 "startup/system_stm32f30x.o"
+"src/CApplication.o"
 "src/main.o"
 "FreeRTOS/event_groups.o"
 "FreeRTOS/heap_5.o"
